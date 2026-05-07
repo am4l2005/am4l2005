@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Amal
-- Im a year 1 cybersecurity student
+- Im a year 2 cybersecurity student
 - you can reach out to me in my gmail at am4l.2005z@gmail.com 
 
 <!---
