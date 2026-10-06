@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Amal
-- Im a year 2 cybersecurity student
+- Hi, I’m Amal
+- Im a year 3 Cybersecurity student | Building, breaking & learning.
+- 
 - you can reach out to me in my gmail at am4l.2005z@gmail.com 
 
 <!---
