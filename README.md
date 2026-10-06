@@ -1,7 +1,8 @@
-Hi, I’m Amal
-Im a year 3 Cybersecurity student | Building, breaking & learning.
+-Hi, I’m Amal
+-Im a year 3 Cybersecurity student | Building, breaking & learning.
+
   
-you can reach out to me in my gmail at am4l.2005z@gmail.com 
+-you can reach out to me in my gmail at am4l.2005z@gmail.com 
 
 <!---
 am4l2005/am4l2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
